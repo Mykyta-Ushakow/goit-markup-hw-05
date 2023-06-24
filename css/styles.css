@@ -960,9 +960,7 @@ ul {
   letter-spacing: 0.04em;
 }
 
-.modal-policy-text a {
-  margin-left: 3px;
-}
+.modal-policy-text a {}
 
 .policy-input:checked+.modal-policy-text .policy-checkbox {
   background-color: var(--ocean-color);
