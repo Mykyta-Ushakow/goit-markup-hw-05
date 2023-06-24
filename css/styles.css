@@ -958,14 +958,10 @@ ul {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-
-  display: inline-flex;
-  align-items: center;
 }
 
 .modal-policy-text a {
-  display: block;
-  margin-left: 4px;
+  margin-left: 3px;
 }
 
 .policy-input:checked+.modal-policy-text .policy-checkbox {
